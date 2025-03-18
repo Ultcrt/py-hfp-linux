@@ -28,6 +28,7 @@
 #ifndef _DIJKSTRA_GRAPH_H
 #define _DIJKSTRA_GRAPH_H
 
+#include <cstdint>
 #include "heap.h"
 #include "graph.h"
 #include "float.h"

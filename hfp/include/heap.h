@@ -28,6 +28,7 @@
 #ifndef _HEAP_H
 #define _HEAP_H
 
+#include <cstdint>
 #include "j_mesh.h"
 
 //! Heap base class type.

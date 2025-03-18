@@ -28,6 +28,7 @@
 #ifndef _CLUSTER_GRAPH_H
 #define _CLUSTER_GRAPH_H
 
+#include <cstdint>
 #include "heap.h"
 #include "graph.h"
 #include "float.h"
